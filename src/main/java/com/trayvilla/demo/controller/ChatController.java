@@ -1,6 +1,6 @@
-package controller;
+package com.trayvilla.demo.controller;
 
-import model.ChatMessage;
+import com.trayvilla.demo.model.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;

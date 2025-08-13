@@ -1,4 +1,4 @@
-package model;
+package com.trayvilla.demo.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
